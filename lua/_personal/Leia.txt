@@ -1,3 +1,7 @@
+NOva Instalacao com gerenciador de plugins Lazyvim :
+
+-- NO INIT LUA DA RAIZ COLE :
+
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("_personal/editor")
 
@@ -32,3 +36,8 @@ require("lazy").setup({
 
 -- arquivos de configuracoes personais - chamando apartir do agrupador
 -- require("personal_configs_nvim._initPersonal")
+
+
+-- FIM
+
+--- DEPOIS COLE A PASTA _personal - que esta no my repositorio -- nela tem todas configs e plugins utilizados
